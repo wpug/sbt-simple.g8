@@ -12,5 +12,4 @@ You can create a new project skeleton with `g8 wpug/sbt-simple.g8` command.
 * Basic README.md
 
 
-This repo is a personalized version of the existing solutions. 
-Inspired from both [chrislewis/basic-project.g8](https://github.com/chrislewis/basic-project.g8) and [softprops/unfiltered.g8](https://github.com/softprops/unfiltered.g8)
+Inspired by [ferhtaydn/sbt-skeleton.g8](https://github.com/ferhtaydn/sbt-skeleton.g8).
