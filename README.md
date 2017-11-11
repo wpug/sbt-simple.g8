@@ -2,8 +2,8 @@ A [giter8](https://github.com/n8han/giter8) template for creating simple SBT/Sca
 
 You can create a new project skeleton with `g8 wpug/sbt-simple.g8` command.
 
-* SBT 0.13.12
-* Scala 2.11.8
+* SBT 1.0.3
+* Scala 2.12.4
 * [ScalaTest](http://www.scalatest.org/)
 * [ScalaCheck](http://www.scalacheck.org/)
 * Project `name`, `organization` and `version` customizable as variables
