@@ -4,7 +4,7 @@ organization := "$organization$"
 
 version := "$version$"
 
-scalaVersion := "2.11.8"
+scalaVersion := "2.12.4"
 
 resolvers ++= Seq(
   "Sonatype OSS Snapshots" at "http://oss.sonatype.org/content/repositories/snapshots/"
@@ -12,8 +12,8 @@ resolvers ++= Seq(
 
 libraryDependencies ++= {
   Seq(
-    "org.scalatest"  %% "scalatest"  % "3.0.0"  % "test",
-    "org.scalacheck" %% "scalacheck" % "1.13.2" % "test"
+    "org.scalatest"  %% "scalatest"  % "3.0.4"  % "test",
+    "org.scalacheck" %% "scalacheck" % "1.13.4" % "test"
   )
 }
 
